@@ -1,0 +1,15 @@
+# Ignore downloaded data
+transcripts/
+transcripts_ids/
+transcripts_ids_upto_20260514/
+rareliquid_transcripts/
+*.txt
+*.vtt
+*.csv
+
+# Ignore API keys
+.env
+deepseek_api_key.txt
+
+# Mac system files
+.DS_Store
